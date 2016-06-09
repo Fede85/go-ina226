@@ -1,5 +1,6 @@
 /*
   Copyright (c) 2016 Arduino LLC.  All right reserved.
+  author: Federico Vanzati (f.vanzati@arduino.cc)
 
   This library is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public
@@ -15,7 +16,7 @@
   License along with this library; if not, write to the Free Software
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
-package main
+package ina226
 
 // INA226 library
 // Datasheet: http://www.ti.com/lit/ds/symlink/ina226.pdf
